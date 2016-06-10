@@ -7,8 +7,8 @@
 	<version>1.0-${revision}</version>
 	<packaging>jar</packaging>
 
-  <name>cc.herbert.poc.versioning</name>
-  <url>http://maven.apache.org</url>
+	<name>cc.herbert.poc.versioning</name>
+	<url>http://maven.apache.org</url>
 
 	<properties>
 		<revision>SNAPSHOT</revision>
