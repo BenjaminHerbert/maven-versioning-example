@@ -7,5 +7,5 @@ node {
   checkout scm
   
   stage 'Build & Test'
-  sh 'mvn clean package'  
+  sh 'mvn clean package -Drevision=$BUILD_ID'
 }
